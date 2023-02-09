@@ -66,18 +66,18 @@
 # 구현체
 + [버섯랭 웹사이트에서 실행할 수 있습니다](https://lang.mushtle.co.kr/)
 
-- [파이썬](https://github.com/yj0524/MushroomLang/MushroomLang-python)
-- [웹-버섯랭](https://github.com/yj0524/MushroomLang/MushroomLang-web)
-- [C](https://github.com/yj0524/MushroomLang/MushroomLang-cc)
-- [C#](https://github.com/yj0524/MushroomLang/MushroomLang-csharp)
-- [코틀린](https://github.com/yj0524/MushroomLang/MushroomLang-kotlin)
+- [파이썬](https://github.com/yj0524/MushroomLang/tree/main/MushroomLang-python)
+- [웹-버섯랭](https://github.com/yj0524/MushroomLang/tree/main/MushroomLang-web)
+- [C](https://github.com/yj0524/MushroomLang/tree/main/MushroomLang-cc)
+- [C#](https://github.com/yj0524/MushroomLang/tree/main/MushroomLang-csharp)
+- [코틀린](https://github.com/yj0524/MushroomLang/tree/main/MushroomLang-kotlin)
 
 # Document
 - [MushroomLangDocument](https://langdocument.mushtle.co.kr)
 
 # 예제
 
-[예제](https://github.com/yj0524/MushroomLang/examples)
+[예제](https://github.com/yj0524/MushroomLang/tree/main/examples)
 
 # Contact and Error Reports
 - admin@mushtle.co.kr
